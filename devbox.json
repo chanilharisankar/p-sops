@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "sops@latest",
+    "age@latest"
+  ],
+  "shell": {},
+  "nixpkgs": {
+    "commit": "f00994e78cd39e6fc966f0c4103f908e63284780"
+  }
+}
